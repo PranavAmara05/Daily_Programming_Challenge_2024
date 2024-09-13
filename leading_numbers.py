@@ -4,8 +4,6 @@ for i in range(len(l)):
         l1.append(l[i])
 print(l1)
 
-
-
 l = [16, 17, 4, 3, 5, 2]
 l1 = []
 current_max =0
